@@ -4,4 +4,13 @@
     <dimen name="h2">24dp</dimen>
     <dimen name="h3">18dp</dimen>
     <dimen name="h4">14dp</dimen>
+    <dimen name="mainLayoutW">416dp</dimen>
+    <dimen name="mainLayoutH">670dp</dimen>
+    <dimen name="genreHeight">160dp</dimen>
+    <dimen name="layoutw">360dp</dimen>
+    <dimen name="layoutw3">250dp</dimen>
+    <dimen name="layouth">658dp</dimen>
+    <dimen name="layoutw2">105dp</dimen>
+    <dimen name="lay3">30dp</dimen>
+    <dimen name="imagewh">90dp</dimen>
 </resources>

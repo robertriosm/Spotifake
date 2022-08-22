@@ -18,7 +18,6 @@
             android:textSize="@dimen/h1"
             app:layout_constraintBottom_toTopOf="@+id/textView3"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.484"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="1.0" />
@@ -27,7 +26,7 @@
             android:id="@+id/textView3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="372dp"
+            android:layout_marginBottom="@dimen/layoutw"
             android:text="@string/rr"
             android:textSize="@dimen/h2"
             app:layout_constraintBottom_toBottomOf="parent"

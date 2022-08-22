@@ -13,15 +13,13 @@
 
 
         <LinearLayout
-            android:layout_width="420dp"
-            android:layout_height="665dp"
+            android:layout_width="@dimen/mainLayoutW"
+            android:layout_height="@dimen/mainLayoutH"
             android:orientation="vertical"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.555"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.757">
+            app:layout_constraintTop_toTopOf="parent">
 
 
             <TextView
@@ -45,13 +43,13 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="110dp"
+                android:layout_height="@dimen/layoutw2"
                 android:gravity="center"
                 android:orientation="horizontal">
 
                 <androidx.cardview.widget.CardView
-                    android:layout_width="164dp"
-                    android:layout_height="96dp"
+                    android:layout_width="@dimen/genreHeight"
+                    android:layout_height="@dimen/imagewh"
                     android:layout_marginRight="@dimen/h2"
                     android:backgroundTint="@color/red1"
                     app:cardCornerRadius="@dimen/h4">
@@ -65,8 +63,8 @@
                 </androidx.cardview.widget.CardView>
 
                 <androidx.cardview.widget.CardView
-                    android:layout_width="164dp"
-                    android:layout_height="96dp"
+                    android:layout_width="@dimen/genreHeight"
+                    android:layout_height="@dimen/imagewh"
                     android:backgroundTint="@color/red2"
                     app:cardCornerRadius="@dimen/h4">
 
@@ -82,13 +80,13 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="110dp"
+                android:layout_height="@dimen/layoutw2"
                 android:gravity="center"
                 android:orientation="horizontal">
 
                 <androidx.cardview.widget.CardView
-                    android:layout_width="164dp"
-                    android:layout_height="96dp"
+                    android:layout_width="@dimen/genreHeight"
+                    android:layout_height="@dimen/imagewh"
                     android:layout_marginRight="@dimen/h2"
                     android:backgroundTint="@color/blue1"
                     app:cardCornerRadius="@dimen/h4">
@@ -102,8 +100,8 @@
                 </androidx.cardview.widget.CardView>
 
                 <androidx.cardview.widget.CardView
-                    android:layout_width="164dp"
-                    android:layout_height="96dp"
+                    android:layout_width="@dimen/genreHeight"
+                    android:layout_height="@dimen/imagewh"
                     android:backgroundTint="@color/blue2"
                     app:cardCornerRadius="@dimen/h4">
 
