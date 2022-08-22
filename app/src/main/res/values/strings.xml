@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Spotifake</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="library">Library</string>
+    <string name="goodMorning">Good morning,</string>
+    <string name="rr">Roberto</string>
+    <string name="genres">Your Top Genres</string>
+    <string name="rap">Rap</string>
+    <string name="metal">Metal</string>
+    <string name="trap">Trap</string>
+    <string name="randb">R&amp;B</string>
+    <string name="libTitle">Your Library</string>
+    <string name="mostRecent">Most recent</string>
+    <string name="liked">Liked Songs</string>
+    <string name="_0_songs">0 songs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
